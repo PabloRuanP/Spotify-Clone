@@ -21,5 +21,5 @@ Segue algumas fotos e Gif de como está o estudo:<br>
 
 * **Pablo Ruan Santos** 
 
-Please follow github and join us!
+Please follow github and join us!<br>
 Thanks to visiting me and good coding!
